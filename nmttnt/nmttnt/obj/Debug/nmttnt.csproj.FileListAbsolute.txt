@@ -1,0 +1,10 @@
+C:\Users\Linh\Source\Repos\nmttnt\nmttnt\bin\Debug\nmttnt.exe.config
+C:\Users\Linh\Source\Repos\nmttnt\nmttnt\bin\Debug\nmttnt.exe
+C:\Users\Linh\Source\Repos\nmttnt\nmttnt\bin\Debug\nmttnt.pdb
+C:\Users\Linh\Source\Repos\nmttnt\nmttnt\obj\Debug\nmttnt.csproj.AssemblyReference.cache
+C:\Users\Linh\Source\Repos\nmttnt\nmttnt\obj\Debug\nmttnt.Form1.resources
+C:\Users\Linh\Source\Repos\nmttnt\nmttnt\obj\Debug\nmttnt.Properties.Resources.resources
+C:\Users\Linh\Source\Repos\nmttnt\nmttnt\obj\Debug\nmttnt.csproj.GenerateResource.cache
+C:\Users\Linh\Source\Repos\nmttnt\nmttnt\obj\Debug\nmttnt.csproj.CoreCompileInputs.cache
+C:\Users\Linh\Source\Repos\nmttnt\nmttnt\obj\Debug\nmttnt.exe
+C:\Users\Linh\Source\Repos\nmttnt\nmttnt\obj\Debug\nmttnt.pdb
